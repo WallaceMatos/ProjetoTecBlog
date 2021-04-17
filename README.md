@@ -25,7 +25,7 @@ Desenvolvi o projeto no curso de desenvolvedor fullstack, na udemy, pelo instrut
 
 # Autor
 
-Wallace de Matos Pereira
+Wallace de Matos Pereira.
 
 Linkedin: https://www.linkedin.com/in/wallacedematos/
 
